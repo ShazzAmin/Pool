@@ -38,6 +38,9 @@ We have so many unrealized designs! Here are some features we would like to impl
 * Keywords View - word clouds
 * Analytics - to track trends
 * Dark mode!
+![Stream View](docs/stream_view.png)
+![Analytics](docs/analytics.png)
+![Overview & Darkmode](docs/overview_and_darkmode.png)
 
 
 Thank you to everyone who helped us this weekend and for making this virtual HackThe6ix an unforgettable event!
