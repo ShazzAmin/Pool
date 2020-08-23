@@ -1,0 +1,8 @@
+{
+  "name": "pool",
+  "author": "Shazz <shahzebamin1@gmail.com>",
+  "publish": false,
+  "dependencies": {
+    "lib": "^4.3.0"
+  }
+}
