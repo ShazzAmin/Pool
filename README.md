@@ -1,5 +1,13 @@
 # Pool
 
+## Showcase
+![Entering Thought](docs/entering_thought.gif)
+![Browsing Thoughts](docs/browsing_thoughts.gif)
+![Sentiment](docs/sentiment.png)
+
+## Architecture
+![Architecture](docs/architecture.png)
+
 ## Inspiration
 We live in a stress-filled society where the average person has over 70,000 thoughts racing through their head every day, but rarely do we ever stop and truly explore those thoughts in a constructive way. Studies show that just 15 minutes of expressive writing a day can lower blood pressure, improve liver functionality, and can even increase productivity by up to 23%. Social media has become the default outlet for self-expression, but it’s clear that social media has become a toxic space for many, which is why we created Pool.
 
